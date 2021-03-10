@@ -1,4 +1,4 @@
-# NLP_HSE_Homeworks
+# NLP_Homeworks
 Homeworks for Natural Language Processing on Python course in HSE
 
 ### Homework 1 assignment:
